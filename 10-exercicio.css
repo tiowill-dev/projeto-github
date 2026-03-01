@@ -1,0 +1,64 @@
+* {
+    font-family: "Montserrat" sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-bottom: 87px;
+}
+
+.links {
+    margin-right: 21px;
+    line-height: 2px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #17233D;
+    cursor: pointer;
+}
+
+.botao {
+    width: 124px;
+    height: 51px;
+    font-size: 16px;
+    font: weight 500px;
+    color: white;
+    line-height: 2px;
+    border-radius: 7px;
+    border: none;
+    background: #4CB538;
+    cursor: pointer;
+}
+
+img {
+    height: 500px;
+    width: 595px;
+    display: inline-block;
+}
+
+section {display: inline-block;
+margin-left: 21px;}
+
+h1{font-weight: 700;
+font-size: 64px;
+width: 582px;
+height:164px ;
+color: #161A49;}
+
+p{width: 493px;
+height:99px ;
+color: #4B505A;
+font-size: 18px;
+font-weight: 400;
+}
+
+a{color:#6FBF44;
+font-size: 18px;
+font: weight 500px;
+width: 112px;
+height: 27px;
+line-height: 100px;
+}
